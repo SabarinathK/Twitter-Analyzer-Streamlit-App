@@ -1,6 +1,7 @@
 # Twitter-Analyzer-Streamlit-App
 My first app depolyment in Streamlit
- Checkout App Link:
+
+Checkout App Link:
 https://share.streamlit.io/sabarinathk/twitter-analyzer-streamlit-app/main/app.py
 
 Twitter sentiment Analyzer 🔥
